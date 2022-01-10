@@ -10,7 +10,7 @@ My current learning endeavors are focussed on (C)GB assembly and Rust. I'm still
 by assembly code every day and had the luck to stumble on the reference for the Gambeboy system,
 so I really had no choice but to go ahead and prototype some stuff. I'm interested in learning
 Rust, since it appears to be a language where I can more easily do complex stuff in compared to C
-and it seems like a better alternative then C++.
+and it seems like a better alternative than C++.
 
 I'm still new to working on Github, but I'm down to help a project if I can benefit from it.
 I use open source software every day, so I would like to give back to the community if I can.
